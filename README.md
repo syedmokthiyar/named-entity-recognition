@@ -141,7 +141,7 @@ output = layers.TimeDistributed(
 
 model = Model(input_word, output)
 
-print('Name: MUKESH V                Register Number: 212222230086      ')
+print('Name: Syed Mokthiyar S M                Register Number: 212222230156      ')
 model.summary()
 
 
